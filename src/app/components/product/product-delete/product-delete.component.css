@@ -1,0 +1,25 @@
+.title {
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ajustes */
+mat-card {
+    padding: 20px;
+    background-color: #FFF;
+}
+
+.buttons {
+    display: inline-block;
+}
+
+.buttons button {
+    height: 40px;
+    width: 80px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
